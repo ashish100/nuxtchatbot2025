@@ -7,7 +7,7 @@
          
         <input type="email" v-model="member.apiemail" placeholder="Email"   />
         <input type="password" v-model="member.apipassword" placeholder="Password"  /> 
-        <button type="submit">Login</button>
+        <button type="submit">LOGIN NOW</button>
       </form>
  </div>
 </template>
